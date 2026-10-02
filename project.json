@@ -1,0 +1,19 @@
+{
+  "id": 94,
+  "title": "Home Occupancy Console Energy Saver",
+  "repository_slug": "home-occupancy-console-energy-saver",
+  "category": "Smart Home",
+  "platform": "Arduino Nano 33 IoT",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 20,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "relay module"
+  ],
+  "scope": "Build a smart home prototype that uses relay module to reduce unnecessary power use. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Energy Saver demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/home-occupancy-console-energy-saver/home-occupancy-console-energy-saver.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
